@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-181717?style=for-the-badge&logo=Recoil&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 
 <!--
 **jeehye03/jeehye03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
